@@ -1,5 +1,5 @@
-# Protein Tertiary Structure RMSD Prediction  
-## Nonlinear Regression Modeling of Structural Deviation in Proteins
+# Physicochemical Determinants of Protein Structural Deviation 
+## A Machine Learning Approach to Predict RMSD in Protein Tertiary Structures
 
 ---
 
