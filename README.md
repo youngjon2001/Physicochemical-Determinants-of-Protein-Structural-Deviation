@@ -251,6 +251,18 @@ Generalization confirmed through controlled holdout evaluation.
 
 ---
 
+## 🧠 Key Insights
+
+- Hydrophobic exposure metrics strongly influence RMSD.
+
+- Structural penalty features correlate with higher deviation.
+
+- Extreme skew (F7) represents rare but biologically significant structural distortions.
+
+- Nonlinear models outperform linear models due to complex structural interactions.
+
+  ---
+
 ## Model Explainability
 
 Feature importance extracted from tree-based models.
