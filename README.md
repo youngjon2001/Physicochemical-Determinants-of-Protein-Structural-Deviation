@@ -30,7 +30,36 @@ Supervised regression.
 Lower RMSD indicates higher structural fidelity. Predicting RMSD enables rapid structural quality assessment and reduces experimental validation cost in protein science workflows.
 
 ---
+## 🔬 Biological Motivation
 
+- Protein folding is governed by:
+
+- Hydrophobic collapse
+
+- Surface-solvent interactions
+
+- Secondary structure formation
+
+- Spatial packing constraints
+
+Misfolded or structurally unstable proteins are associated with:
+
+- Neurodegenerative disorders (e.g., aggregation diseases)
+
+- Loss of enzymatic function
+
+- Structural instability from mutations
+
+Predicting structural deviation computationally reduces reliance on expensive wet-lab validation and accelerates:
+
+- Drug discovery pipelines
+
+- Mutation impact assessment
+
+- Protein engineering workflows
+
+  ---
+  
 ## Dataset Description
 
 ### Target Variable
